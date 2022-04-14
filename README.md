@@ -8,7 +8,7 @@ technologies. The Java Servlet, JavaServer Pages, Java Expression Language and
 Java WebSocket specifications are developed under the
 [Java Community Process](https://jcp.org/en/introduction/overview).
 
-The Apache Tocat software is developed in an open and participatory
+The Apache Tomcat software is developed in an open and participatory
 environment and released under the
 [Apache License version 2](https://www.apache.org/licenses/). The Apache Tomcat
 project is intended to be a collaboration of the best-of-breed developers from
